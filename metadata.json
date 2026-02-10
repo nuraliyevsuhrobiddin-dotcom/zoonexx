@@ -1,0 +1,8 @@
+
+{
+  "name": "Zoonex Market",
+  "description": "Chorvachilik uchun raqamli ekotizim - Hayvonlar, yem, logistika, veterinar xizmatlari va AI tavsiyalar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
